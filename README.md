@@ -1,2 +1,1 @@
-＃wangyaownagstudy
-学习知识资源收集存储
+学习资源收集存储
